@@ -1,0 +1,67 @@
+OFFICE IMLO 2.5.0
+
+Word, Excel, PowerPoint, Visio, Project va klassik Outlook uçun özbekça matn yordamçisi.
+Bepul foydalaniş uçun taqdim etiladi.
+
+ÖRNATIŞ
+Office oynalarini yoping. Install.exe faylini işga
+tuşiring va Örnatiş (yoki Qayta örnatiş) tugmasini bosing.
+Office dasturini qayta oçing: usta_hasan bölimidan foydalaning.
+
+OLIB TAŞLAŞ
+Windows > Settings > Apps röyxatidan Office Imlo ni tanlang
+yoki dastur papkasidagi uninstall.exe ni oçing.
+Şu örnatiş oynasida Olib taşlaş tugmasini bosing.
+Oyna yopilgaç uninstall.exe ham avtomatik öçadi.
+Şaxsiy hujjatlar, zaxiralar va begona fayllar öçirilmaydi.
+
+TEZKOR KLAVIŞLAR
+Alt+1 — O/G köçiş belgisini tuzatiş
+Alt+2 — Yangi alfavit
+Alt+3 — Eski alfavit
+Alt+4 — Lotin -> Kiril
+Alt+5 — Kiril -> Lotin
+Alt+6 — Kitobça hisoblagiç (faqat Word)
+Alt+F1 — Ma'lumot va töliq yöriqnoma
+
+YANGI ALFAVIT
+usta_hasan > imlo > Yangi alfavit tugmasi: Oʻ/oʻ -> Ö/ö,
+Gʻ/gʻ -> Ğ/ğ; Sh/sh -> Ş/ş; Ch/ch -> Ç/ç.
+Apostrofning turli şakllari taniladi. Katta-kiçik harflar saqlanadi.
+SH -> Ş, CH -> Ç. Allaqaçon ögirilgan harflar saqlanadi.
+Word: tanlangan matn yoki tanlov bölmasa asosiy hujjat.
+Excel: tanlangan kataklar; formulalar özgarmaydi.
+PowerPoint: tanlangan matn, obyekt yoki barça slaydlar.
+Visio: tanlangan matn; aks holda tanlangan şakllar; tanlov bölmasa barça sahifalar.
+Jonli maydonli Visio şakllari avtomatik aylantirilmaydi.
+Project: jadvalda tanlangan Name yoki Text1–Text30 kataklari.
+Hisoblanadigan formulalar, sana, davomiylik va raqamlar özgarmaydi.
+Outlook (klassik): xatni alohida yoziş oynasida oçing. Tanlangan matn
+yoki tanlov bölmasa xat tanasi aylantiriladi. Mavzu va manzillar özgarmaydi.
+Xat avtomatik yuborilmaydi. Yangi Outlook bu COM qöşimçani qöllamaydi.
+
+MUHIM
+Office röyxati: Fayl > Parametrlar > Nadstroyki (Add-ins).
+Word: boshqariş röyxatida Templates / Shablonlar; Excel: Excel Add-ins;
+PowerPoint: PowerPoint Add-ins. usta_hasan lentasi qöşimçadan yuklanadi;
+Visio, Project va klassik Outlook: COM Add-ins röyxati.
+u “Lentani sozlaş” röyxatida alohida körinmasligi mumkin.
+Installer aynan tanilgan eski shablonlarni zaxiralab, takroriy yuklanişni tuzatadi.
+Boşqa hujjat yoki makros uçun Office ogohlantirişi saqlanişi mumkin.
+Taşkilot siyosati qöşimçani çeklasa, administrator ruxsati kerak.
+Işlaşdan oldin hujjatingizning zaxira nusxasini saqlang.
+Excel: kataklarni tanlab foydalaning. Katak içidagi tahrirlaş
+rejimida tanlangan matnni özgartiriş kafolatlanmaydi.
+
+IŞLAB ÇIQUVÇI
+Sayfiyev Hasan Olim öğli
+Telegram: @usta_hasan
+Email: hasansoftware6451122@gmail.com
+Telefon: +998 91 645 11 22
+
+Maqsad: Özbekistondagi ofis işlarida qulaylik yaratiş.
+
+ESKI ALFAVIT
+Alt+3: Ö/ö → Oʻ/oʻ; Ğ/ğ → Gʻ/gʻ; Ş/ş → Sh/sh; Ç/ç → Ch/ch.
+SH/CH bosh harfli söz kontekstida tiklanadi. Apostrof standart ʻ belgisi bilan yoziladi.
+Bu matnni eski alifboga ögiradi; avvalgi apostrof turi aynan tiklanmaydi.
